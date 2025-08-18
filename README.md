@@ -12,6 +12,7 @@
     - ReactJS
     - TailwindCSS
     - ViteJS
+    - Typescript
 - Bisa menggunakan library pihak ke 3
 - Bundle File tidak lebih dari 1MB (tidak termasuk frame)
 - Client Side Rendering
