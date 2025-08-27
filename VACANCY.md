@@ -26,8 +26,10 @@ https://github.com/ahdja/case-kandidat-volab
 - Anywhere You can reach internet
 
 ## Benefit:
-- Insurance
-- Salary
+- Insurance 🧑‍⚕️
+- Salary 💰
+- Music Studio 🎸 *(WFO @ Bunker)*
+- PS5 🎮 *(WFO @ Bunker)*
 
 ## Application :
 Send your CV, Portfolio and Github Testing Task Result URL to pickme@votolab.id
