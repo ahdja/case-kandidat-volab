@@ -10,6 +10,7 @@
 - Understand about Application versioning (SVN, GIT).
 - Experience with Figma (design and prototyping) is a big plus.
 - Experience with the CI / CD development model is a big plus.
+- Having Basic Design, Music or Art is a plus.
 
 ## Responsibilities:
 - Design, Develop, Implement and Maintain Internal Web Application Framework.
