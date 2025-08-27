@@ -4,8 +4,8 @@
 ![Flow Image](assets/Flow.png)
 
 ## Frame
-- assets/Frame-Landscape.png
-- assets/Frame-Portrait.png
+- assets/Frame-Landscape.png (2 taking photos)
+- assets/Frame-Portrait.png (1 taking photo)
 
 ## Rules
 - Framework
