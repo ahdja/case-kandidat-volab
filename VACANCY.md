@@ -8,6 +8,7 @@
 - Understand the Web application development process.
 - Experience with REST and JSON data formats.
 - Understand about Application versioning (SVN, GIT).
+- Knowing React Native is a big plus.
 - Experience with Figma (design and prototyping) is a big plus.
 - Experience with the CI / CD development model is a big plus.
 - Having Basic Design, Music or Art is a plus.
