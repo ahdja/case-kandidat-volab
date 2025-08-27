@@ -2,7 +2,7 @@
 
 ## Requirement:
 - Self-motivated and good interpersonal & communication skills.
-- Min 1 years experience in React.js/Next.js (fresh graduate are very welcome).
+- Experience in React.js/Next.js.
 - Having knowledge with Typescript, Webpack/Vite, and testing library (JEST).
 - Experience in responsive web design or PWA.
 - Understand the Web application development process.
